@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const app = require("./app");
 mongoose.connect(
-  "mongodb+srv://qwer1234:qwer1234@cluster0.xa6fp.mongodb.net/workout?retryWrites=true&w=majority",
+  "mongodb+srv://linda:linda123@cluster0.8jnob.mongodb.net/workout?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useFindAndModify: false,
